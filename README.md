@@ -15,8 +15,7 @@ Built from scratch. Real traffic. Real alerts.
 |---|---|
 | 🔥 Firewall | OPNsense |
 | 🔍 Detection | Suricata IDS/IPS · Wazuh SIEM |
-| 🖥️ Environments | 15+ VMs · Red/Blue Team · CTF |
-| 📊 Monitoring | Zabbix · FortiGate · Kaspersky · Safetica DLP |
+| 🖥️ Environments | 15+ VMs · Red/Blue Team · CTF/VulnHub |
 
 ---
 
