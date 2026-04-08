@@ -29,7 +29,7 @@ Built from scratch. Real traffic. Real alerts.
 
 ### 📈 Certification roadmap
 
-`Network+` → `Security+` → `eJPT` → `BTL1` → `OSCP`
+`Network+` → `Security+`
 
 ---
 
